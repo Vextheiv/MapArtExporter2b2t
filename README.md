@@ -1,6 +1,8 @@
 # MapArtExporter2b2t
 Exports 2b2t map art or normal maps to a folder you desire. The code is made for meteor addons but you are still able to use on your own client/addon with some changes.
 
+# IF YOUR USING METEOR CLIENT ADDON TEMPLATE CHANGE ADDON2B2T TO YOUR ADDONTEMPLATE NAME.
+
 
 <img width="996" height="613" alt="image" src="https://github.com/user-attachments/assets/beec3a28-9a00-4d0b-b760-10b3259fe11c" />
 
